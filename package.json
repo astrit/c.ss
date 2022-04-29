@@ -1,0 +1,18 @@
+{
+    "name": "@c.ss/core",
+    "version": "1.0.0",
+    "description": "Coming soon",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/astrit/c.ss.git"
+    },
+    "keywords": [
+      "css",
+      "icons"
+    ],
+    "author": "Astrit",
+    "bugs": {
+      "url": "https://github.com/astrit/c.ss/issues"
+    },
+    "homepage": "https://css.gg"
+  }
